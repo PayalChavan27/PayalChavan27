@@ -1,3 +1,4 @@
+![logo](https://github.com/PayalChavan27/PayalChavan27/blob/main/2.png)
 <h1 align="center">Hi 👋, I'm Payal Chavan</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
